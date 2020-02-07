@@ -1,6 +1,5 @@
 # SRWkshp1a: Learning (Machine) Drug Function Using Molecular Structures, 
-**S.Ravichandran 
-(Planned for the first quarter of 2020)**
+**S.Ravichandran**
 
 Click Binder link below to begin the tutorial. 
 
