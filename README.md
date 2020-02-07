@@ -1,6 +1,6 @@
 # SRWkshp1a: Learning (Machine) Drug Function Using Molecular Structures, 
 S.Ravichandran, ravichandrans@mail.nih.gov
-**Planned for the first quarter of 2020**
+**(Planned for the first quarter of 2020)**
 
 Click Binder link below to begin the tutorial. 
 
