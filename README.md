@@ -8,4 +8,4 @@ Click Binder link below to begin the tutorial.
 
 **Please note that we were not sucessful to make Binder work with Safari on Mac OS, instead use Chrome browser. If you are on Windows, please also use Chrome.**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ravichas/SRWkshp1/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ravichas/SRWkshp1a/master)
