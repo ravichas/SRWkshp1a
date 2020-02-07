@@ -1,4 +1,4 @@
-# SRWkshp1a: Learning (Machine) Drug Function Using Molecular Structures, 
+# SRWkshp1a: Learning (Machine) Drug Function Using Molecular Structures
 **S.Ravichandran**
 
 Click Binder link below to begin the tutorial. 
